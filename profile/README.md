@@ -24,7 +24,7 @@ A <strong>Sigma Software House</strong> é uma software house focada no desenvol
 
 </div>
 
----
+<br>
 
 # 🚀 Sobre Nós
 
@@ -38,7 +38,7 @@ Nosso foco está na construção de sistemas robustos, interfaces modernas e arq
 - 🎨 Experiência do usuário
 - 🧩 Organização e qualidade de código
 
----
+<br>
 
 # 🛠️ Tecnologias & Ferramentas
 
@@ -48,13 +48,22 @@ Nosso foco está na construção de sistemas robustos, interfaces modernas e arq
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vue,react,vite,tailwind" />
 
+<br>
+<br>
+
 ## Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php" />
 
+<br>
+<br>
+
 ## Banco de Dados
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
+
+<br>
+<br>
 
 ## DevOps & Ferramentas
 
@@ -62,7 +71,7 @@ Nosso foco está na construção de sistemas robustos, interfaces modernas e arq
 
 </div>
 
----
+<br>
 
 # 📌 Áreas de Atuação
 
@@ -74,6 +83,8 @@ Nosso foco está na construção de sistemas robustos, interfaces modernas e arq
 - Dashboards administrativos
 - Sistemas web personalizados
 
+<br>
+
 ## ⚙️ Backend & APIs
 
 - APIs RESTful
@@ -81,6 +92,8 @@ Nosso foco está na construção de sistemas robustos, interfaces modernas e arq
 - Integrações externas
 - Sistemas de autenticação
 - Microsserviços
+
+<br>
 
 ## 📱 Soluções Digitais
 
@@ -90,7 +103,7 @@ Nosso foco está na construção de sistemas robustos, interfaces modernas e arq
 - Ferramentas administrativas
 - Gestão de dados
 
----
+<br>
 
 # 🧠 Nossa Filosofia
 
@@ -105,62 +118,47 @@ Por isso, buscamos:
 - Boas práticas de desenvolvimento
 - Evolução contínua
 
----
+<br>
 
 # 📂 Projetos em Destaque
-
-<table>
-<tr>
-<td width="50%">
 
 ## 🔹 Backend TypeScript
 
 API moderna construída com foco em escalabilidade, organização e boas práticas.
 
 ### Stack
+
 - TypeScript
 - Node.js
 - Express
 - JWT
 - MySQL
 
-</td>
-
-<td width="50%">
+<br>
 
 ## 🔹 Landing Pages Modernas
 
 Páginas responsivas focadas em conversão e experiência do usuário.
 
 ### Stack
+
 - React
-- Typescript
-- Css
+- TypeScript
+- CSS
 
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+<br>
 
 ## 🔹 Dashboards Administrativos
 
-Painéis administrativos modernos para gestão de sistemas e dados.
+Painéis modernos para gestão de sistemas e dados.
 
-</td>
-
-<td width="50%">
+<br>
 
 ## 🔹 Sistemas Personalizados
 
 Soluções desenvolvidas sob demanda para diferentes segmentos.
 
-</td>
-</tr>
-</table>
-
----
+<br>
 
 # 🌎 Conecte-se Conosco
 
@@ -176,32 +174,44 @@ Soluções desenvolvidas sob demanda para diferentes segmentos.
 
 </div>
 
----
-
-# 📍 Informações da Organização
-
-| Informação | Detalhes |
-|---|---|
-| 🌎 Localização | Brazil |
-| 💼 Segmento | Software House |
-| 🚀 Especialidade | Desenvolvimento Web & Sistemas |
-| 🛠️ Stack Principal | TypeScript, Vue.js, Node.js |
-| 📧 Contato | softwarehouse.sigma@gmail.com |
-
----
-
-# ⭐ Nossa Missão
-
-Criar soluções digitais modernas que impulsionem negócios através da tecnologia, unindo performance, design e inovação.
-
----
+<br>
 
 <div align="center">
 
-### 💙 Sigma Software House
+## 🌎 Informações da Organização
 
-<sub>Desenvolvendo soluções digitais modernas.</sub>
+<img src="https://img.shields.io/badge/Localização-Brazil-2563EB?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Segmento-Software%20House-0F172A?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Especialidade-Web%20Development-2563EB?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Vue%20%7C%20Node.js-0F172A?style=for-the-badge" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer"/>
+<br>
+
+## 🎯 Nossa Missão
+
+Desenvolver soluções digitais modernas e escaláveis que impulsionem negócios através da tecnologia, unindo performance, inovação e experiência do usuário.
+
+<br>
+
+<div align="center">
+
+## Sigma Software House
+
+Desenvolvendo soluções digitais modernas com foco em performance, escalabilidade e experiência.
+
+<br>
+
+<a href="https://github.com/Sigma-Software-House">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:softwarehouse.sigma@gmail.com">
+<img src="https://img.shields.io/badge/Contato-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
