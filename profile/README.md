@@ -162,18 +162,6 @@ Soluções desenvolvidas sob demanda para diferentes segmentos.
 
 ---
 
-# 📊 Estatísticas da Organização
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sigma-Software-House&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigma-Software-House&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🌎 Conecte-se Conosco
 
 <div align="center">
